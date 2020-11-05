@@ -1,2 +1,3 @@
 # OS-IS-2020-2
-Lab2 Operating systems (Mayatin)
+Praktikum for Operating systems course
+Lab2 (Mayatin)
