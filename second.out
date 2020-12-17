@@ -1,0 +1,2 @@
+    801 /sbin/auditd
+    847 /sbin/rngd -f --fill-watermark=0
